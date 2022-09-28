@@ -1,0 +1,30 @@
+body {
+
+    color: #000000;
+    /* background-color: aqua; */
+    background-image: url("../images/bacteria.jpeg")
+  }
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+  } 
+
+  .information {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: italic;
+  } 
+
+  .instructions {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:small;
+    font-style: bold;
+    color: #00470c;
+  } 
+
+  #selDataset {
+    background-color: rgb(183, 247, 203);
+    border: rgb(53, 168, 0) 2px solid;
+  }
